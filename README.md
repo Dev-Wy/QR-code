@@ -17,7 +17,7 @@
 - A QR code card for basic HTML and CSS. No responsive layouts needed. Figma was used for the design.
 
 ### Screenshot
-![](./qr-code-screenshot.png)
+![](images/qr-code-screenshot.png)
 
 ### Links
 - Solution URL:
