@@ -23,7 +23,7 @@
 - Solution URL:
  https://github.com/Dev-Wy/QR-code
 - Live Site URL:
- https://github.com/Dev-Wy/QR-code
+ https://dev-wy.github.io/QR-code/
 
 ## My Process
 ### Built with
