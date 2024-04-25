@@ -24,7 +24,7 @@ img {
 }
 h1 {
     font-family: 'Outfit';
-    font-weight:700px;
+    font-weight: 700;
     font-size: 22px;
     color: #1f314f;
 }
@@ -39,4 +39,11 @@ p {
 .attribution {
     font-family: 'Outfit';
     padding-top: 40px;
+}
+
+/*************DESKTOP***************/
+@media only screen and (min-width: 1440px) {
+    .content-wrapper {
+        margin-top: 152px;
+    }
 }
